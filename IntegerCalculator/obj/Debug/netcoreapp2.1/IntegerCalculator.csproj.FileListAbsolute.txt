@@ -1,0 +1,11 @@
+C:\Users\artur\source\repos\IntegerCalculator\IntegerCalculator\bin\Debug\netcoreapp2.1\IntegerCalculator.deps.json
+C:\Users\artur\source\repos\IntegerCalculator\IntegerCalculator\bin\Debug\netcoreapp2.1\IntegerCalculator.runtimeconfig.json
+C:\Users\artur\source\repos\IntegerCalculator\IntegerCalculator\bin\Debug\netcoreapp2.1\IntegerCalculator.runtimeconfig.dev.json
+C:\Users\artur\source\repos\IntegerCalculator\IntegerCalculator\bin\Debug\netcoreapp2.1\IntegerCalculator.dll
+C:\Users\artur\source\repos\IntegerCalculator\IntegerCalculator\bin\Debug\netcoreapp2.1\IntegerCalculator.pdb
+C:\Users\artur\source\repos\IntegerCalculator\IntegerCalculator\obj\Debug\netcoreapp2.1\IntegerCalculator.csprojAssemblyReference.cache
+C:\Users\artur\source\repos\IntegerCalculator\IntegerCalculator\obj\Debug\netcoreapp2.1\IntegerCalculator.csproj.CoreCompileInputs.cache
+C:\Users\artur\source\repos\IntegerCalculator\IntegerCalculator\obj\Debug\netcoreapp2.1\IntegerCalculator.AssemblyInfoInputs.cache
+C:\Users\artur\source\repos\IntegerCalculator\IntegerCalculator\obj\Debug\netcoreapp2.1\IntegerCalculator.AssemblyInfo.cs
+C:\Users\artur\source\repos\IntegerCalculator\IntegerCalculator\obj\Debug\netcoreapp2.1\IntegerCalculator.dll
+C:\Users\artur\source\repos\IntegerCalculator\IntegerCalculator\obj\Debug\netcoreapp2.1\IntegerCalculator.pdb
